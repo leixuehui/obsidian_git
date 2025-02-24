@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "README"
             }
           },
           {
@@ -217,11 +217,19 @@
   },
   "active": "7f165e017b7736f0",
   "lastOpenFiles": [
-    "Pasted image 20250224153740.png",
-    "Pasted image 20250224153726.png",
+    "Pasted image 20250224170202.png",
+    "Pasted image 20250224170152.png",
+    "Pasted image 20250224170134.png",
+    "Pasted image 20250224170123.png",
+    "Pasted image 20250224170107.png",
+    "Pasted image 20250224170047.png",
+    "Pasted image 20250224170033.png",
+    "Pasted image 20250224170008.png",
+    "Pasted image 20250224170004.png",
+    "Pasted image 20250224165940.png",
+    "Pasted image 20250224165935.png",
     "ISP pipeline.md",
-    "高通 pipline各部分.md",
-    "Pasted image 20250224153429.png",
-    "欢迎.md"
+    "README.md",
+    "高通 pipline各部分.md"
   ]
 }
